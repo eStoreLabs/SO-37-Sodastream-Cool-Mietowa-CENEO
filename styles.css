@@ -47,6 +47,7 @@
   max-width: 100%;
   display: block;
   margin: 0 auto;
+  max-height: none !important;
 }
 #es-rc #es-rc-content .es-kv {
   background: url(./static/img/kv-bg.png) no-repeat center center;
